@@ -1,0 +1,7 @@
+.btn:hover {
+  background-color: blue;
+  font-size: 14px;
+}
+.delbtn:hover {
+  background-color: red;
+}
